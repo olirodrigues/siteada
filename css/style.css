@@ -96,3 +96,11 @@ button {
 form {
   margin-bottom: 30px;
 }
+
+.menu-final a:hover {
+  color: #FF00FF;
+}
+
+.menu-final a:focus {
+  color: #FF00FF;
+}
